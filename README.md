@@ -297,9 +297,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Full-Stack Developer**
-- GitHub: [@your-github](https://github.com/your-github)
-- LinkedIn: [@your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your-email@example.com
+- GitHub: [@your-github](https://github.com/developerrahul27)
+- LinkedIn: [@your-linkedin](https://www.linkedin.com/in/rahul-rawattw-788b14368))
+- Email: rahulrawattw@gmail.com
 
 ## 🙏 Acknowledgments
 
